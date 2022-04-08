@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assistant</string>
+    <string name="channel_name">notificacion</string>
+    <string name="channel_description">descripcion</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383569071469",
+    "firebase_url": "https://asistente-rpi-13f9b-default-rtdb.firebaseio.com",
+    "project_id": "asistente-rpi-13f9b",
+    "storage_bucket": "asistente-rpi-13f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383569071469:android:e6dd44cae228c72d855e64",
+        "android_client_info": {
+          "package_name": "com.nikk.assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383569071469-63rq0sus1pncqgror2aa1hjpqc64aqj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClFADMOqi70fmeubR6JdzUxEw4Ruhuy9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383569071469-63rq0sus1pncqgror2aa1hjpqc64aqj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
